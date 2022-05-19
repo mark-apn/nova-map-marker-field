@@ -6,15 +6,9 @@
         "nova"
     ],
     "license": "MIT",
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://nova.laravel.com"
-        }
-    ],
     "require": {
         "illuminate/support": "^9.0",
-        "laravel/nova": "^3.31",
+        "laravel/nova": "^4.0",
         "symfony/thanks": "^1.1"
     },
     "autoload": {
